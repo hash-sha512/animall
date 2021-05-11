@@ -1,4 +1,4 @@
-### for mapup india
+### for Animall Tech
 
 # Getting Started with Create React App
 
