@@ -1,4 +1,4 @@
-### for Animall Tech
+### for Animall Tech Redux version
 
 # Getting Started with Create React App
 
